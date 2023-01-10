@@ -1,0 +1,4 @@
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Homework5\hell\test_input_image.txt
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Homework5\hell\test_convolution.txt
+
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Homework5\test_output_image.txt
